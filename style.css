@@ -9,6 +9,7 @@ body {
 
 nav {
     text-align: left;
+    border: 2px solid blue;
 }
 
 header, footer {
