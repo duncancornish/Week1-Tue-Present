@@ -1,7 +1,6 @@
 * {
     background-color: #222;
     color: #ddd;
-    box-sizing:border-box
 }
 
 body {
@@ -10,6 +9,10 @@ body {
 
 nav {
     text-align: left;
+}
+
+header, footer {
+    text-transform: uppercase;
 }
 
 /* #image{
