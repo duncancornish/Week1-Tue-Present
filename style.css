@@ -12,6 +12,11 @@ nav {
     border: 2px solid blue;
 }
 
+aside {
+    text-transform: uppercase;
+    border: 1px solid red;
+}
+
 header, footer {
     text-transform: uppercase;
 }
@@ -19,9 +24,3 @@ header, footer {
 section {
     border: 2px dashed red;
 }
-
-/* #image{
-    background: url("https://resize.hswstatic.com/w_907/gif/rabbits-crazy-march-1a.jpg");
-    background-size: cover;
-    background-position: -50px;
-} */
